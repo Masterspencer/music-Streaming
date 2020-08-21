@@ -1,0 +1,65 @@
+body {
+}
+
+.container-fluid {
+  padding: 0 10rem;
+}
+
+/* NAV BAR SECTION */
+
+.btn {
+  border-left: none;
+  border-color: darkgray;
+}
+
+.input-group {
+  margin-top: 1rem;
+}
+
+.form-control {
+  border-right: none;
+  border-color: darkgray;
+}
+
+.navbar {
+  padding: 0 0 2rem;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+/* CAROUSEL SECTION */
+
+#carousel {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.carousel-art {
+  width: 15rem;
+}
+
+/* SONG SECTION */
+
+.art {
+  width: 5rem;
+}
+
+.play-icon-container {
+  text-align: center;
+}
+
+.play-icon {
+  margin: 2rem 2rem 3rem;
+}
